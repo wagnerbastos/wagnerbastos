@@ -23,3 +23,5 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerbastos&theme=dracula)](https://github.com/wagnerbastos/github-readme-stats)
+
+[LinkedIn](https://www.linkedin.com/in/wagner-l-bastos-060490285/)
