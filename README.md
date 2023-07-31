@@ -26,6 +26,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerbastos&theme=dracula)](https://github.com/wagnerbastos/github-readme-stats)
 
+---
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/wagner-l-bastos-060490285/)
