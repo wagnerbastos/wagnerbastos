@@ -15,7 +15,6 @@
 🌌 Are you ready to join me on this enchanting journey? Let's make magic happen! 🌟✨
 
 ---
-Note: Feel free to personalize the bio by adding specific languages you are proficient in and coding languages you are learning. Also, don't forget to replace "[YourName]" with your actual name. Good luck with your coding adventures! If you have any other requests or need further assistance, feel free to ask.
 
 ![Python](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
