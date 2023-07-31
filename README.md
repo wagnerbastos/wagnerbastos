@@ -1,3 +1,5 @@
+## Bio
+
 👋 Hello there! I'm Wagner, a passionate translator with a love for languages and a burning desire to explore the enchanting world of coding! 📚🔤
 
 🌐 Translating words and bridging cultures has always been my forte, allowing me to connect with people from different corners of the globe. As I traveled through the diverse realms of language, I couldn't help but notice the magical artistry of coding that brings life to the digital realm. 💻✨
@@ -24,4 +26,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerbastos&theme=dracula)](https://github.com/wagnerbastos/github-readme-stats)
 
+## Contact
+
 [LinkedIn](https://www.linkedin.com/in/wagner-l-bastos-060490285/)
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/wagner-l-bastos-060490285/)
