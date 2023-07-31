@@ -24,11 +24,3 @@ Note: Feel free to personalize the bio by adding specific languages you are prof
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerbastos&theme=dracula)](https://github.com/wagnerbastos/github-readme-stats)
-
-# Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wagnerbastos&repo=devweekgit.github.io)](https://github.com/wagnerbastos/github-readme-stats)
-
-# Contact
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>] (https://www.linkedin.com/in/wagner-l-bastos-060490285)
